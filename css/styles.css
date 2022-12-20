@@ -135,6 +135,21 @@ h2 {
     margin-bottom: 1.25rem;
 }
 
+@media screen and (max-width:1280px) {
+    textarea {
+        height: 60vh;
+    }
+
+    .botones {
+        display: flex;
+    }
+
+    button {
+        width: 50%;
+    }
+
+}
+
 @media screen and (max-width:820px) {
 
     body {
