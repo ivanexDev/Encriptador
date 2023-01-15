@@ -1,6 +1,6 @@
 <h1>Encriptador - Curso Alura/Oracle</h1>
 <br>
-![Screenshot encriptador](https://raw.githubusercontent.com/ivanexDev/Encriptador/main/screenshot.png)
+<img src="https://raw.githubusercontent.com/ivanexDev/Encriptador/main/screenshot.png" alt="Screenshot encriptador">
 
 <p align="Center">Imagen referencial de de la web desplegada.</p>
 
@@ -21,6 +21,6 @@ La funcion del encriptador es , obtener el texto escrito por el usuario en la zo
 	gaitober" => "gato"
 <br>
 <h4>Link</h4>
-[Pagina Web Encriptador](https://ivanexdev.github.io/Encriptador/)
+<a href="https://ivanexdev.github.io/Encriptador/">Página Web Encriptador</a>
 <br><br>
-![Logo alura oracle](https://raw.githubusercontent.com/ivanexDev/Encriptador/ee35f8963ce687dcee40bfd6da918d9d67b5d6df/logo%20Alura-oracle.svg)
+<img src="https://raw.githubusercontent.com/ivanexDev/Encriptador/ee35f8963ce687dcee40bfd6da918d9d67b5d6df/logo%20Alura-oracle.svg" alt="Logo alura oracle">
