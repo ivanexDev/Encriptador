@@ -13,14 +13,10 @@ body {
 
 }
 
-.logo {
-    height: 90vh;
-}
-
 
 .area_entrada {
     display: flex;
-    align-self: flex-end;
+    /* align-self: flex-end; */
     flex-direction: column;
     margin-left: 3.125rem;
 }
@@ -81,7 +77,7 @@ textarea {
     background: #E9ECF8;
     border: none;
     resize: none;
-    height: 39.375rem;
+    max-height: 39.375rem;
     font-family: 'Inter', sans-serif;
     color: #0A3871;
     font-size: 1.5rem;
@@ -136,6 +132,8 @@ h2 {
 }
 
 
+
+
 @media screen and (max-width:820px) {
 
     body {
@@ -178,6 +176,10 @@ h2 {
         justify-content: center;
     }
 
+    .botones {
+        display: flex;
+        flex-direction: column;
+    }
 
 
     .dibujo {
